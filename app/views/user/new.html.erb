@@ -1,0 +1,13 @@
+<h1>hello world</h1>
+
+<form action="/user" method="post">
+<input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+ <label for="username">User-name:</label>
+  <input type="text" id="username" name="user[username]"><br><br>
+
+  <label for="fname">E-mail:</label>
+  <input type="text" id="email" name="user[email]"><br><br>
+  <label for="lname">password:</label>
+  <input type="text" id="password" name="user[password]"><br><br>
+  <input type="submit" value="Submit">
+</form>
