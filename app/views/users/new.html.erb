@@ -23,13 +23,13 @@
 
     <ul id="users">
   <% @users.each do |user| %>
-    <li>
+   
         <%= 'Username = ' + user.username  %><br>
         <%= 'Email = ' + user.email  %><br>     
           <%= link_to "Edit User", edit_user_path(user.id) %>
           <br> <br> 
-    </li>
+    
     <% end %>
-</ul>
+
 <% end %>
 
