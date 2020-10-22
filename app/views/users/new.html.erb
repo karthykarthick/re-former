@@ -33,3 +33,51 @@
 
 <% end %>
 
+<%# 
+<%= form_tag(@user)  do |f| %>
+  <%# <% if @user.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@user.errors.count, "error") %> prohibited this user from being saved:</h2>
+
+      <ul>
+      <% @user.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <%# <% end %>
+  <%# <p>
+ <%= f.text_field :username, :value => 'John Doe' %>
+  <%# <%= f.text_field :email, :value => "johnny123@gmail.com"%> %>
+  <%# <%= f.text_field :password, placeholder: "password" %> %>
+  <%# </p> %>
+
+  <%# <p>
+  <%= f.submit "Submit" %>
+  <%# </p>  %>
+   <%# <p> Last added Users</p> %>
+
+    <%# <ul id="users"> %>
+  <%# <% @users.each do |user| %> %>
+   
+        <%# <%= 'Username = ' + user.username  %><br> %>
+        <%# <%= 'Email = ' + user.email  %><br>      %>
+          <%# <%= link_to "Edit User", edit_user_path(user.id) %> %>
+          <%# <br> <br>  %>
+    
+    <%# <% end %>
+
+<%# <% end %>
+
+
+
+<%# <form action="users">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>  %>
+
+
+
