@@ -30,8 +30,8 @@ open http://localhost:3000 in your browser
 
 👤 **Karthick**
 
-- Github: [@abouhid](https://github.com/karthykarthick)
-- LinkedIn: [Alexandre Bouhid](https://www.linkedin.com/in/karthick-harimoorthy/)
+- Github: [@karthick](https://github.com/karthykarthick)
+- LinkedIn: [karthick](https://www.linkedin.com/in/karthick-harimoorthy/)
 
 ## 🤝 Contributing
 
