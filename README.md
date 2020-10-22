@@ -20,6 +20,7 @@ Open Terminal
 run git clone git@github.com:KelynPNjeri/re-former.git
 run cd re-former
 run yarn install --check-files (if asked)
+rails db:create
 run rake db:migrate
 run rails s
 open http://localhost:3000 in your browser
