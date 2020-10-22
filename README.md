@@ -28,17 +28,10 @@ open http://localhost:3000 in your browser
 
 ## Authors
 
-👤 **Alexandre Bouhid**
+👤 **Karthick**
 
-- Github: [@abouhid](https://github.com/abouhid)
-- LinkedIn: [Alexandre Bouhid](https://www.linkedin.com/in/alexandrebouhid/)
-
-👤 **Kelyn Paul Njeri**
-
-- Github: [@KelynPNjeri](https://github.com/KelynPNjeri)
-- Twitter: [@KelynNjeri](https://twitter.com/kelyn-njeri)
-- Linkedin: [Kelyn Paul](https://linkedin.com/kelyn-paul)
-
+- Github: [@abouhid](https://github.com/karthykarthick)
+- LinkedIn: [Alexandre Bouhid](https://www.linkedin.com/in/karthick-harimoorthy/)
 
 ## 🤝 Contributing
 
